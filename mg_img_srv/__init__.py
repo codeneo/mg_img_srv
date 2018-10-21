@@ -1,0 +1,1 @@
+# init for the mg_img_srv project

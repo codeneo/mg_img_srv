@@ -1,0 +1,1 @@
+# init for image_groups.migrations
